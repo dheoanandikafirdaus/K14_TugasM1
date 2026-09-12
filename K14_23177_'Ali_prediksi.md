@@ -1,6 +1,6 @@
 # Prediksi Terkunci - Kelompok K14
 Nama: 'Ali  
-NIM: 24/.../PA/23177  
+NIM: 24//545416/PA/23177  
 SOAL: Tiga besaran fisis yang ditebak dan sertakan alasan logis/fisis kenapa menebak nilai itu.
 
 ## Prediksi 1
