@@ -1,6 +1,6 @@
 # Prediksi Terkunci - Kelompok K14
-Nama: Keysa Dwi Juniarahma
-NIM: 24/.../PA/22853   
+Nama: Keysa Dwi Juniarahma  
+NIM: 24/.../PA/22853  
 SOAL: Tiga besaran fisis yang ditebak dan sertakan alasan logis/fisis kenapa menebak nilai itu.
 
 ## Prediksi 1
