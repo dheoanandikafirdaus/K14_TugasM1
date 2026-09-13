@@ -5,12 +5,15 @@ SOAL: Tiga besaran fisis yang ditebak dan sertakan alasan logis/fisis kenapa men
 
 ## Prediksi 1
 Jarak Episenter Shadow zone berapa di kuadran 2 (90-180)
+
 Alasan: Saat sebuah gelombang berada di episenter gelombang akan menjalar ke dalam tanah dan membentuk elips/parabola, sehingga sinar gelombang membelok secara halus mengikuti hukum Snell. Namun begitu sinar mencapai inti luar yang bersifat cair (tidak dapat meneruskan gelombang geser dan mengalami penurunan modulus geser secara drastis), kecepatan gelombang P turun tiba-tiba
 
 ## Prediksi 2
-...  
-Alasan:
+Selisih waktu tempuh fase PcP terhadap P selalu mengecil seiring bertambahnya
+
+Alasan:PcP adalah gelombang P yang dipantulkan tegak lurus dari batas inti-mantel (CMB, radius ≈2891 km dari pusat), sehingga lintasannya lebih panjang daripada P langsung pada jarak episentral yang sama.
 
 ## Prediksi 3
-...  
-Alasan: 
+Amplitudo P-diff jauh lebih kecil dibanding P langsung pada jarak yang sama.
+
+Alasan: P-diff merambat dengan mekanisme difraksi menyusuri CMB, bukan lintasan sinar geometris murni, sehingga energinya menyebar (geometrical spreading) jauh lebih besar dan sebagian energi "bocor" masuk ke inti
