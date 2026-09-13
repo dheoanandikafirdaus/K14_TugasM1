@@ -4,13 +4,13 @@ NIM: 24/538509/PA/22853
 SOAL: Tiga besaran fisis yang ditebak dan sertakan alasan logis/fisis kenapa menebak nilai itu.
 
 ## Prediksi 1
-...  
-Alasan:
+Kecepatan rambat 
+Alasan: karena memang sudah diberikan materi tersebut pada kuliah metode seismik 
 
 ## Prediksi 2
-...  
-Alasan:
+Waktu
+Alasan: karena untuk merambat gelombang memerlukan waktu 
 
 ## Prediksi 3
-...  
-Alasan: 
+jarak 
+Alasan: karena dari hubungan antara kecepatan dikali waktu akan menghasilkan jarak
